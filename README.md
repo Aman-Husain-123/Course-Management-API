@@ -32,10 +32,10 @@ The API accepts a **list of courses** and persists them into a **JSON file**, en
 
 ``
 .
-├── index.py # FastAPI application
-├── courses.json # Auto-generated JSON storage
-├── README.md # Project documentation
-└── requirements.txt # Project dependencies
+- ├── index.py # FastAPI application
+- ├── courses.json # Auto-generated JSON storage
+- ├── README.md # Project documentation
+- └── requirements.txt # Project dependencies
 
 
 
